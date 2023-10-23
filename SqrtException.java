@@ -1,4 +1,4 @@
-package SqrtException;
+
 import java.util.*;
 public class SqrtException {
     public static void main(String[] args)throws ArithmeticException{
